@@ -1,0 +1,4 @@
+Docu numpy : https://numpy.org/doc/2.1/user/absolute_beginners.html
+
+Docu matplotlib : https://matplotlib.org/stable/gallery/index.html
+
